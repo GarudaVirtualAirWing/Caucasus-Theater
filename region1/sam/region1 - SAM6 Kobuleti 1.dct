@@ -3,5 +3,5 @@ metadata = {
 	["objtype"]  = "sam",
 	["base"]     = nil,
 	["intel"]	 = 3,
-	["alwaysSpawn"] = true,
+	["spawnalways"] = true,
 }
